@@ -1,2 +1,2 @@
 # iNaturalist_UY
-Scripts for the analysis of iNat data from Uruguay
+Find here some scripts for the analysis of [iNaturalist](inaturalist.org) data from Uruguay
