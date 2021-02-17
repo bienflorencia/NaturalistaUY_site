@@ -2,33 +2,39 @@ library(lubridate)
 library(extrafont)
 library(forcats)
 library(sf)
+library(stringi)
 library(tidyverse)
 
 Uruguay <- st_read('data/Uruguay.shp')
-iNatUY <- read_csv('observations-129251.csv', guess_max = 19000)
+iNatUY <- read_csv('data/observations-131793.csv', guess_max = 20000)
 
-# Number of records created a year from today 
+iNatUY <- iNatUY %>% head(20000)
+
+
+iNatUY %>% arrange(desc(created_at)) %>% select(created_at)
+
+# Number of records created a year from today() '2021-02-13'
 iNatUY %>% 
-  filter(created_at>=(today()-years(1))) %>% nrow()
+  filter(created_at>=(ymd('2021-02-13')-years(1))) %>% nrow()
 
 # Percentage of the records created a year from today over the total amount of records
 (100 * iNatUY %>% 
-  filter(created_at>=(today()-years(1))) %>% nrow())/nrow(iNatUY) 
+  filter(created_at>=(ymd('2021-02-13')-years(1))) %>% nrow())/nrow(iNatUY) 
 
 # Number of users a year from today
 iNatUY %>% 
-  filter(created_at>=(today()-years(1))) %>% 
+  filter(created_at>=(ymd('2021-02-13')-years(1))) %>% 
   distinct(user_id) %>% nrow()
 
 # Percentage of the number of users a year from today over the total amount of users in the platform from Uruguay
 (100 * iNatUY %>% 
-    filter(created_at>=(today()-years(1))) %>% 
+    filter(created_at>=(ymd('2021-02-13')-years(1))) %>% 
     distinct(user_id) %>% nrow() / nrow(iNatUY %>% distinct(user_id)))
 
 
 # Number of observations for each department
 iNatUY %>% 
-  group_by(place_admin1_name) %>% count() 
+  group_by(place_admin1_name) %>% count() %>% arrange(desc(n))
 
 # Number of observations for each department (MAP)
 left_join(Uruguay %>% mutate(place_admin1_name=tolower(nombre)), 
@@ -40,7 +46,7 @@ left_join(Uruguay %>% mutate(place_admin1_name=tolower(nombre)),
   geom_sf(aes(fill=n)) +
   labs(x='', y= '', fill = 'Number of\nObservations') +
   theme_bw() +
-  scale_fill_gradientn(colours = wesanderson::wes_palette("Zissou1", 19, type = "continuous"))+
+  scale_fill_gradientn(colours = wesanderson::wes_palette("Zissou1", 10, type = "continuous")) +
   theme(text=element_text(family='Calibri')) +
   theme(axis.title.x = element_text(margin = margin(t = 20, r = 0, b = 0, l = 0)))
 
