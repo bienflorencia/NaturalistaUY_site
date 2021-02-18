@@ -86,8 +86,8 @@ iNatUY %>%
 
 ## Data for figures
 
-# TOTAL 10000
-# CADA PUNTO 100 REGISTROS
+# TOTAL 20000
+# CADA PUNTO 200 REGISTROS
 
 #Plantas
 #Hongos
