@@ -1,4 +1,4 @@
-# iNaturalist_UY
+# Visualization of iNat data for Uruguay
 Find here some scripts for the analysis of [iNaturalist](https://inaturalist.org) data from Uruguay
 
 
