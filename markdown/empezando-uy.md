@@ -2,11 +2,11 @@
 
 ¡Hola, te damos la bienvenida a Naturalista UY! Esta guía te familiarizará con algunas de las principales características del sitio.
 
-*   [Cómo publicar observaciones](#como-publicar-observaciones)
-*   [Explorar observaciones](#explore)
-*   [Organismos](#organisms)
-*   [Identificar observaciones](#identify)
-*   [Lugares](#places)
+*   [Cómo publicar observaciones](#cómo-publicar-observaciones)
+*   [Cómo explorar observaciones](#cómo-explorar-observaciones)
+*   [Organismos](#organismos)
+*   [Cómo identificar observaciones](#cómo-identificar-observaciones)
+*   [Lugares](#lugares)
 
 
 # Cómo publicar observaciones
@@ -14,7 +14,7 @@
 Este artículo describe:
 
 *   [¿Qué son las observaciones?](#qué-son-las-observaciones)
-*   [Cómo hacer una observación con un iPhone](#iphone)
+*   [Cómo hacer una observación con un iPhone](#cómo-hacer-una-observación-con-un-iphone)
 *   [Cómo hacer una observación con un dispositivo con Android](#cómo-hacer-una-observación-con-un-dispositivo-con-android)
 *   [Cómo hacer una observación desde la web](#cómo-hacer-una-observación-desde-la-web)
 *   [Cómo importar observaciones de Flickr](http://www.inaturalist.org/pages/flickr_upload)
@@ -65,7 +65,6 @@ No es necesario que tus observaciones incluyan todas estas partes, pero sí es n
 
 ![](http://static.inaturalist.org/wiki_page_attachments/1177-original.png)
 
-
 ![](http://static.inaturalist.org/wiki_page_attachments/429-original.png) Agregá una o más fotos como **pruebas**.
 
 ![](http://static.inaturalist.org/wiki_page_attachments/436-original.png) Elegí **qué** viste.
@@ -110,13 +109,13 @@ Desde la página de carga, arrastrá una o más fotos. Cada foto generará una �
 
 ![](http://static.inaturalist.org/wiki_page_attachments/455-original.png)  
 
+--------------------------------------------------------------
 
-
-## Cómo identificar observaciones
+# Cómo identificar observaciones
 
 Este artículo describe:
 
-*   [Cómo utilizar la herramienta Identificar](#identify_tool)
+*   [Cómo utilizar la herramienta Identificar](#cómo-utilizar-la-herramienta-identificar)
 *   [Cómo confirmar una identificación](#how_ident_work)
 *   [Cómo confirmar una identificación](#ident_confirm)
 *   [Cómo mejorar una identificación](#ident_improve)
@@ -125,7 +124,7 @@ Este artículo describe:
 
 ### Cómo utilizar la herramienta Identificar
 
-Si empezás a identificar muchas observaciones, tal vez te parezca que hacer clic en las observaciones individuales te retrasa. Para acelerar el proceso, hemos creado la [herramienta identificar](https://www.inaturalist.org/observations/identify), especialmente diseñada para ayudarte a identificar con la mayor eficiencia posible. También, hay un [tutorial en video](https://www.inaturalist.org/pages/videos+de+tutoriales-ar#identify) que describe la herramienta.
+Si empezás a identificar muchas observaciones, tal vez te parezca que hacer clic en las observaciones individuales te retrasa. Para acelerar el proceso, hemos creado la [herramienta identificar](observations/identify), especialmente diseñada para ayudarte a identificar con la mayor eficiencia posible. También, hay un [tutorial en video](https://www.inaturalist.org/pages/videos+de+tutoriales-ar#identify) que describe la herramienta.
 
 ![](http://static.inaturalist.org/wiki_page_attachments/1244-original.png)
 
@@ -265,8 +264,7 @@ Desde la página Observaciones, [filtrá por Categoría desconocida](http://www.
 
 ![](http://static.inaturalist.org/wiki_page_attachments/1225-original.png)
 
-Cabe señalar que la observación no tiene identificación y dice “Desconocido” donde aparece normalmente el taxón de la observación.
-
+Cabe señalar que la observación no tiene identificación y dice “Desconocido” donde aparece normalmente el taxón de la observación.  
 
 ![](http://static.inaturalist.org/wiki_page_attachments/1216-original.png)
 
@@ -295,46 +293,16 @@ Si agregás una ID de un taxón que es un ancestro del taxón de la observación
 
 [Hacé clic aquí para obtener más consejos y ser un mejor identificador](http://www.inaturalist.org/pages/lets_id_some_arthropods).
 
---------------------------------------------------------------
-
-## Lugares
-
-Este artículo describe:
-
-*   [Cómo crear lugares](#create_place)
-
-Cómo crear lugares
-------------------
-
-![](http://static.inaturalist.org/wiki_page_attachments/481-original.png)
-
-**Para crear un nuevo lugar, debés publicar al menos 50 observaciones verificables a través de tu cuenta** . Una vez que hayas alcanzado las 50 observaciones verificables, hacé clic en **Lugares** en **Más** ubicado en el encabezado
-
-![](http://static.inaturalist.org/wiki_page_attachments/482-original.png)
 
 
-Luego, hacé clic en **Agregar un lugar nuevo**
 
-![](http://static.inaturalist.org/wiki_page_attachments/485-original.png)
-
-
-*   Hacé clic en **Crear manualmente un lugar nuevo**.
-*   Ingresá el **nombre** del lugar
-*   Si el lugar coincide plenamente con otro lugar de ArgentiNat que ya existe, como un estado o condado, agregá ese lugar como el **matriz**
-*   **Dibujá el límite** del lugar a mano...(Consultá el video de demostración [aquí](https://photos.app.goo.gl/tx2PvxQMpdP4GSje7))
-*   ...O cargá el límite con un archivo **KML**
-*   Seleccioná el **tipo de lugar**; usá **espacio abierto** para parques
-*   **Guardá** el lugar
-
-Cómo explorar observaciones
----------------------------
+# Cómo explorar observaciones
 
 Este artículo describe:
 
 *   [Cómo explorar observaciones en la web](#expweb)
 
-Cómo explorar observaciones en la web
--------------------------------------
+## Cómo explorar observaciones en la web
 
 Con ArgentiNat, pueden explorarse millones de observaciones sobre vida silvestre que comparten naturalistas de todo el mundo. Este tutorial te mostrará cómo hacerlo.
 
@@ -423,22 +391,23 @@ En el menú **Otros** filtros, hay muchos otros filtros para elegir. Por ejemplo
 
 ![](http://static.inaturalist.org/wiki_page_attachments/478-original.png)
 
+--------------------------------------------------------------
 
-# Organismos (#organisms)
+# Organismos
 
 Este artículo describe:
 
-*   [Qué son los organismos](#what_are_organisms)
+*   [Qué son los organismos](#qué-son-los-organismos)
 *   [Cómo cuenta los taxones iNaturalist](https://www.inaturalist.org/pages/how_inaturalist_counts_taxa)
 
 
-### Qué son los organismos
-
-![](http://static.inaturalist.org/wiki_page_attachments/536-original.png)
+## Qué son los organismos
 
 Los **organismos** son distintos tipos de entes vivos. Ya conocés los nombres de muchos organismos como los **humanos**, las **águilas calvas**, las **aves**, las **serpientes**, los **mamíferos** y las **plantas**.
 
 El **árbol de la vida** describe cómo se relacionan todos los organismos. Todos los organismos pueden considerarse **posiciones en el árbol**. Algunos son, en realidad, grupos, como las **vaquitas de San Antonio** y se refieren a ramas enteras. Otros, como la **mariquita de siete puntos**, se refiere a hojas individuales del árbol. Esto significa que una observación puede identificarse correctamente como una observación de varios organismos. Por ejemplo, un escarabajo puede identificarse como una vaquita de San Antonio o como una mariquita de siete puntos. Ambas pueden ser correctas: vaquita de San Antonio es una identificación más general que mariquita de siete puntos.
+
+![](http://static.inaturalist.org/wiki_page_attachments/536-original.png)
 
 Hemos marcado **diez posiciones** en el árbol de la vida con íconos y colores para que puedan encontrarse con facilidad. Esos son buenos lugares para comenzar a explorar ramas y hojas más precisas.
 
@@ -449,3 +418,33 @@ A veces, resulta útil pensar en el árbol de la vida como un **árbol genealóg
 Usamos los términos **padres** e **hijos** para referirnos a los **ancestros** y los **descendientes** más próximos respectivamente. Y nos referimos a posiciones ascendentes hacia los ancestros como posiciones **más generales**.
 
 ![](http://static.inaturalist.org/wiki_page_attachments/539-original.png)
+
+--------------------------------------------------------------
+
+# Lugares
+
+Este artículo describe:
+
+*   [Cómo crear lugares](#cómo-crear-lugares)
+
+## Cómo crear lugares
+
+![](http://static.inaturalist.org/wiki_page_attachments/481-original.png)
+
+**Para crear un nuevo lugar, debés publicar al menos 50 observaciones verificables a través de tu cuenta**. Una vez que hayas alcanzado las 50 observaciones verificables, hacé clic en **Lugares** en la pestaña **Más** ubicada en el encabezado.
+
+![](https://static.inaturalist.org/wiki_page_attachments/482-original.png)
+
+Luego, hacé clic en **`Agregar un lugar nuevo`**
+
+![1](http://static.inaturalist.org/wiki_page_attachments/425-original.png) Hacé clic en **Crear manualmente un lugar nuevo**.
+
+![2](http://static.inaturalist.org/wiki_page_attachments/429-original.png) Ingresá el **nombre** del lugar
+
+![3](http://static.inaturalist.org/wiki_page_attachments/436-original.png) Si el lugar coincide plenamente con otro lugar de Naturalista UY que ya existe, como un estado o condado, agregá ese lugar como la **Base** geográfica de referencia (_**Parent**_).
+
+![4](http://static.inaturalist.org/wiki_page_attachments/435-original.png) Cargá el límite con un archivo **KML**. Los polígonos KML se pueden crear con las aplicaciones gratuitas como **Google Earth** o **QGIS**. No se adminten archivos KMZ, así que comprobá la extensión del archivo.
+
+![5](http://static.inaturalist.org/wiki_page_attachments/433-original.png) Seleccioná el **tipo de lugar**; usá **espacio abierto** para parques
+
+![](http://static.inaturalist.org/wiki_page_attachments/432-original.png) **Guardá** el lugar
