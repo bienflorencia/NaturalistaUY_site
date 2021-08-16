@@ -79,8 +79,8 @@
 #### Proyectos
 
 1.  [¿Qué son los proyectos?](#projects1)
-2.  [¿Cómo restrinjo las contribuciones de un proyecto a un área geográfica?](#projects2)
-[](#projects2)4.  [](#projects2)[¿Cómo hago para restringir las contribuciones de un proyecto a un área geográfica que no esté en la base de datos?](#projects3)
+2.  [¿Cómo restrinjo las contribuciones de un proyecto a un área geográfica?](#projects2)[](#projects2)
+4.  [](#projects2)[¿Cómo hago para restringir las contribuciones de un proyecto a un área geográfica que no esté en la base de datos?](#projects3)
 [](#projects3)6.  [](#projects3)[¿Por qué no puedo agregar mi observación a un proyecto?](#projectobs)
 [](#projectobs)8.  [](#projectobs)[La observación cumple los requisitos del proyecto, ¿por qué no hay un vínculo al proyecto en la observación?](#projectlink)
 [](#projectlink)10. [](#projectlink)[¿Por qué algunas observaciones no aparecen en mi proyecto de colección basado en un lugar? Se que las observé ahí.](#placeindex)
@@ -88,9 +88,8 @@
 [](#userprivileges)14. [](#userprivileges)[¿Puedo usar el logotipo de Naturalista UY cuando pongo un vínculo a Naturalista UY?](#logo)
 [](#logo)
 
-[#### Guías](#logo)
-
-[](#logo)2.  [](#logo)[¿Qué son las guías?](#guides1)
+#### Guías (#logo)
+1.  [](#logo)[¿Qué son las guías?](#guides1)
 
 #### General
 
@@ -98,19 +97,14 @@
 
     Naturalista UY es el portal para Uruguay de iNaturalist, una plataforma para registrar y organizar hallazgos sobre la naturaleza, conocer otras personas aficionadas a la biodiversidad y aprender sobre el patrimonio natural. El sitio alienta la participación de una gran variedad de aficionados a la naturaleza, incluyendo botánicos, entomólogos, observadores de aves, exploradores de playas, recolectores de hongos, guardaparques, ecologistas y pescadores. Conectando estas distintas percepciones y experiencias del mundo natural, iNaturalist espera crear una conciencia comunitaria extensiva de la biodiversidad local y promover una mayor exploración de los ambientes locales.
 
-    [¿Qué es Naturalista UY?](https://youtube.com/example)
-
+    Video [¿Qué es Naturalista UY?]()
     Caption: CC-BY [Biodiversidata](https://www.biodiversidata.org/es/)
 
-    Naturalista UY es parte de la [red global iNaturalist](https://www.inaturalist.org/sites/network).
-
-    iNaturalist es una iniciativa conjunta de la [Academia de Ciencias de California](https://calacademy.org/) y la [National Geographic Society](https://www.nationalgeographic.org/).
+    Naturalista UY es parte de la [red global iNaturalist](https://www.inaturalist.org/sites/network). iNaturalist es una iniciativa conjunta de la [Academia de Ciencias de California](https://calacademy.org/) y la [National Geographic Society](https://www.nationalgeographic.org/).
 
 2.  ##### ¿Quiénes están detrás de Naturalista UY? ¿Y de iNaturalist?
 
-    Naturalista UY es impulsado localmente por la Asociación Civil [JULANA](https://julana.org/) y por [Biodiversidata](https://biodiversidata.org/) en colaboración con iNaturalist, con el apoyo de la [National Geographic Society](https://www.nationalgeographic.org/) a través de un grant para exploradores.    
-
-    Naturalista UY fue generada gracias a un fondo que la National Geographic Society entregó a [Florencia Grattarola](https://nationalgeographic.org/find-explorers/florencia-grattarola), integrante de JULANA y coordinadora de Biodiversidata.
+    Naturalista UY es impulsado localmente por la Asociación Civil [JULANA](https://julana.org/) y por [Biodiversidata](https://biodiversidata.org/) en colaboración con iNaturalist. Fue generado gracias a un fondo para exploradores que la [National Geographic Society](https://www.nationalgeographic.org/) entregó a [Florencia Grattarola](https://nationalgeographic.org/find-explorers/florencia-grattarola), integrante de JULANA y coordinadora de Biodiversidata.
 
     En un principio, iNaturalist fue el proyecto final de la Maestría de Nathan Agrin, Jessica Kline, y Ken-ichi Ueda en la [School of Information](http://www.ischool.berkeley.edu) de UC Berkeley. Visitá la página [Acerca de iNaturalist](https://www.naturalista.uy/pages/about) para más información sobre los integrantes actuales de iNat.
 
