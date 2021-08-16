@@ -1,0 +1,67 @@
+{
+  "observations": [
+    {
+      "id": 38110785,
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/60523573/original.jpeg?1580359345",
+      "place_guess": "Salto, Uruguay",
+      "user": {
+        "login": "rafatosi",
+        "name": "Rafael Tosi",
+        "user_icon_url": "https://static.inaturalist.org/attachments/users/icons/1318865/thumb.png?1541541938"
+      },
+      "taxon": {
+        "default_name": {
+          "name": "Venado de Campo"
+        }
+      }
+    },
+    {
+      "id": 64680713,
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/104022370/original.jpeg?1605119411",
+      "place_guess": "Maldonado, Uruguay",
+      "background_color": "#5D5ACC",
+      "user": {
+        "login": "sofiamgc",
+        "name": "Sofía González",
+        "user_icon_url": "https://static.inaturalist.org/attachments/users/icons/2537580/thumb.jpeg?1579517042"
+      },
+      "taxon": {
+        "default_name": {
+          "name": "Bibi"
+        }
+      }
+    },
+    {
+      "id": 69396298,
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/112585172/original.jpeg?1613013906",
+      "place_guess": "Sagehen Creek, California, USA",
+      "background_color": "#B72EA7",
+      "user": {
+        "login": "joselinlistur",
+        "name": "Joselin Listur",
+        "user_icon_url": "https://static.inaturalist.org/attachments/users/icons/2390056/thumb.jpeg?1626314934"
+      },
+      "taxon": {
+        "default_name": {
+          "name": "Abeja Carpintera"
+        }
+      }
+    },
+    {
+      "id": 1970914,
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/100522942/original.jpeg?1602859455",
+      "place_guess": "Maldonado, Uruguay",
+      "background_color": "#E2A203",
+      "user": {
+        "login": "diego_caballero",
+        "name": "Diego Caballero",
+        "user_icon_url": "https://static.inaturalist.org/attachments/users/icons/2513727/thumb.jpeg?1578091892"
+      },
+      "taxon": {
+        "default_name": {
+          "name": "Gaviota Cangrejera"
+        }
+      }
+    }
+  ]
+}

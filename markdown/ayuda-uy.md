@@ -1,21 +1,21 @@
-{{nav Ayuda y FAQS, Empezando en Naturalista UY, Videos de tutoriales, Pautas de la comunidad, Guía para curadores, Administrando proyectos, Guía de bioblitzes, Guía para docentes, Ayudanos a traducir}}
+{{nav Ayuda y FAQS, Empezando en NaturalistaUY, Videos de tutoriales, Pautas de la comunidad, Guía para curadores, Administrando proyectos, Guía de bioblitzes, Guía para docentes, Ayudanos a traducir}}
 
-¿Cómo va? Si recién estás arrancando con iNat, revisá la guía de \[\[Naturalista UY\]\] para recorrer algunas de las características del sitio. Si tenés alguna pregunta acerca del sitio, por favor revisá las preguntas frecuentes más abajo. **Si todavía necesitás despuestas, por favor enviá un mail a soporte. Si estás en Uruguay, escribí a [naturalistauy@gmail.com](mailto:naturalistauy@gmail.com), y si te encontrás en otro país o querés contactarte con iNaturalist, escribí a [help@inaturalist.org](mailto:help@inaturalist.org), o publicá tu pregunta en el [Foro de la Comunidad de iNaturalist](https://forum.inaturalist.org/) (hay canales en [español](https://forum.inaturalist.org/c/general/general-espanol/24))**.
+¿Cómo va? Si recién estás arrancando con iNat, revisá la guía de [Empezando en NaturalistaUY](/pages/empezando-uy) para recorrer algunas de las características del sitio. Si tenés alguna pregunta acerca del sitio, por favor revisá las preguntas frecuentes más abajo. **Si todavía necesitás despuestas, por favor enviá un mail a soporte. Si estás en Uruguay, escribí a [naturalistauy@gmail.com](mailto:naturalistauy@gmail.com), y si te encontrás en otro país o querés contactarte con iNaturalist, escribí a [help@inaturalist.org](mailto:help@inaturalist.org), o publicá tu pregunta en el [Foro de la Comunidad de iNaturalist](https://forum.inaturalist.org/) (hay canales en [español](https://forum.inaturalist.org/c/general/general-espanol/24))**.
 
 ### Preguntas Frecuentes
 
 #### General
 
-1.  [¿Qué es Naturalista UY? ¿Y qué es iNaturalist?](#general1)
-2.  [¿Quién está detrás de Naturalista UY y de iNaturalist?](#general2)
+1.  [¿Qué es NaturalistaUY? ¿Y qué es iNaturalist?](#general1)
+2.  [¿Quién está detrás de NaturalistaUY y de iNaturalist?](#general2)
 3.  [¿Qué tecnologías y fuentes de datos utiliza el proyecto?](#general3)
-4.  [¿Qué puedo hacer para contribuir en Naturalista UY e iNaturalist?](#general4)
-5.  [¿Cómo puedo comunicarme con Naturalista UY e iNaturalist?](#general5)
+4.  [¿Qué puedo hacer para contribuir en NaturalistaUY e iNaturalist?](#general4)
+5.  [¿Cómo puedo comunicarme con NaturalistaUY e iNaturalist?](#general5)
 6.  [¿Quiénes son el personal, curadores y administradores del sitio?](#general6)
 7.  [¿Cuál es la diferencia entre iNaturalist y Seek?](#general7)
 8.  [¿Qué se considera contenido inapropiado?](#inappropriate)
 9.  [¡Spam! ¿Qué hago?](#spam)
-10. [¿Puedo usar las fotos que se publican en Naturalista UY?](#photo-use)
+10. [¿Puedo usar las fotos que se publican en NaturalistaUY?](#photo-use)
 
 #### Observaciones
 
@@ -24,13 +24,13 @@
 3.  [¿Puedo agregar taxones múltiples por observación? ¿Qué pasa si mi foto tiene una flor Y un insecto interesante?](#manytaxaperobs)
 4.  [¿Qué significa cautivo/cultivado?](#captive)
 5.  [¿Cómo puedo obtener ayuda para identificar lo que vi?](#observations3)
-6.  [¿Por qué Naturalista UY no reconoce el nombre que ingresé?](#names)
+6.  [¿Por qué NaturalistaUY no reconoce el nombre que ingresé?](#names)
 7.  [¿Qué es la evaluación de la calidad de los datos y cómo califican las observaciones para considerarlas con “Grado de investigación”?](#quality)
 8.  [¿Qué es la geoprivacidad? ¿Qué significa que una observación esté oscurecida?](#geoprivacy)
 9.  [¿Cómo agrego sonidos?](#sounds)
-10. [¿Puedo cargar videos en Naturalista UY?](#video)
+10. [¿Puedo cargar videos en NaturalistaUY?](#video)
 11. [¿Qué son las etiquetas, los campos de observación y las anotaciones?](#observations6)
-12. [¿Qué significa vincular Naturalista UY con mi cuenta de Flickr?](#observations4)
+12. [¿Qué significa vincular NaturalistaUY con mi cuenta de Flickr?](#observations4)
 13. [¿Por qué no aparece mi observación en un lugar o un proyecto de colección? Estoy seguro de haber hecho una observación allí.](#placeindex)
 14. [¿Puedo cargar mis fotos viejas como observaciones?](#olderphotos)
 15. [¿Qué significan los símbolos del mapa?](#mapsymbols)
@@ -44,12 +44,12 @@
 3.  [¿Qué pasa si no estoy de acuerdo con la identificación que hizo alguien?](#id-disagree)
 4.  [Identifiqué mi observación después de que otra persona agregó una identificación de nivel superior. ¿Por qué, entonces, la observación se trabó en la identificación de nivel superior?](#community-id)
 5.  [¿Por qué la gente sigue agregando identificaciones “obvias” como “Plantas” u “Hongos”?](#coarse-ids)
-6.  [No estoy de acuerdo con la taxonomía de Naturalista UY. ¿Debo atenerme a ella cuando agrego una identificación?](#taxonomydisagree)
+6.  [No estoy de acuerdo con la taxonomía de NaturalistaUY. ¿Debo atenerme a ella cuando agrego una identificación?](#taxonomydisagree)
 7.  [Hace unos días, publiqué una observación pero todavía nadie la identificó. ¿Cometí algún error?](#whynoid)
 
 #### Taxones (por ejemplo, género, especie o nombres comunes)
 
-1.  [¿Cómo agrego a la base de datos de Naturalista UY una especie que no esté?](#missingspecies)
+1.  [¿Cómo agrego a la base de datos de NaturalistaUY una especie que no esté?](#missingspecies)
 2.  [¿Puedo agregar nombres comunes?](#commonnames)
 3.  [Hay un error en la taxonomía, el nombre de una especie o un nombre común. ¿Cómo se puede corregir?](#namewrong)
 
@@ -63,13 +63,13 @@
 
 #### Ciencia e investigación
 
-1.  [¿Cómo se usan los datos de Naturalista UY para investigación?](#science1)
-2.  [¿Cómo puedo descargar datos de Naturalista UY?](#export)
+1.  [¿Cómo se usan los datos de NaturalistaUY para investigación?](#science1)
+2.  [¿Cómo puedo descargar datos de NaturalistaUY?](#export)
 3.  [Soy investigador y trabajo en un ente del gobierno. ¿Cómo puedo acceder a las coordenadas verdaderas de una especie sensible?](#accesslocation)
-4.  [¿Cómo debería citar a Naturalista UY?](#cite)
-5.  [¿Qué observaciones de Naturalista UY se exportan a GBIF y con qué frecuencia se exportan?](#GBIFdata)
+4.  [¿Cómo debería citar a NaturalistaUY?](#cite)
+5.  [¿Qué observaciones de NaturalistaUY se exportan a GBIF y con qué frecuencia se exportan?](#GBIFdata)
 6.  [Si la ID de una observación o el grado de calidad de los datos se modifica, ¿el cambio se actualizará en GBIF?](#GBIFobschange)
-7.  [¿Qué otros sitios utilizan exportación de datos de Naturalista UY?](#dataexports)
+7.  [¿Qué otros sitios utilizan exportación de datos de NaturalistaUY?](#dataexports)
 
 #### Listas
 
@@ -85,7 +85,7 @@
 [](#projectobs)8.  [](#projectobs)[La observación cumple los requisitos del proyecto, ¿por qué no hay un vínculo al proyecto en la observación?](#projectlink)
 [](#projectlink)10. [](#projectlink)[¿Por qué algunas observaciones no aparecen en mi proyecto de colección basado en un lugar? Se que las observé ahí.](#placeindex)
 [](#placeindex)12. [](#placeindex)[¿Puedo eludir el límite de 50 observaciones verificables para crear un lugar o un proyecto tradicional?](#userprivileges)
-[](#userprivileges)14. [](#userprivileges)[¿Puedo usar el logotipo de Naturalista UY cuando pongo un vínculo a Naturalista UY?](#logo)
+[](#userprivileges)14. [](#userprivileges)[¿Puedo usar el logotipo de NaturalistaUY cuando pongo un vínculo a NaturalistaUY?](#logo)
 [](#logo)
 
 #### Guías (#logo)
@@ -93,18 +93,18 @@
 
 #### General
 
-1.  ##### ¿Qué es Naturalista UY?
+1.  ##### ¿Qué es NaturalistaUY? ¿Y qué es iNaturalist?
 
-    Naturalista UY es el portal para Uruguay de iNaturalist, una plataforma para registrar y organizar hallazgos sobre la naturaleza, conocer otras personas aficionadas a la biodiversidad y aprender sobre el patrimonio natural. El sitio alienta la participación de una gran variedad de aficionados a la naturaleza, incluyendo botánicos, entomólogos, observadores de aves, exploradores de playas, recolectores de hongos, guardaparques, ecologistas y pescadores. Conectando estas distintas percepciones y experiencias del mundo natural, iNaturalist espera crear una conciencia comunitaria extensiva de la biodiversidad local y promover una mayor exploración de los ambientes locales.
+    NaturalistaUY es el portal para Uruguay de iNaturalist, una plataforma para registrar y organizar hallazgos sobre la naturaleza, conocer otras personas aficionadas a la biodiversidad y aprender sobre el patrimonio natural. El sitio alienta la participación de una gran variedad de aficionados a la naturaleza, incluyendo botánicos, entomólogos, observadores de aves, exploradores de playas, recolectores de hongos, guardaparques, ecologistas y pescadores. Conectando estas distintas percepciones y experiencias del mundo natural, iNaturalist espera crear una conciencia comunitaria extensiva de la biodiversidad local y promover una mayor exploración de los ambientes locales.
 
-    Video [¿Qué es Naturalista UY?]()
+    Video [¿Qué es NaturalistaUY?]()
     Caption: CC-BY [Biodiversidata](https://www.biodiversidata.org/es/)
 
-    Naturalista UY es parte de la [red global iNaturalist](https://www.inaturalist.org/sites/network). iNaturalist es una iniciativa conjunta de la [Academia de Ciencias de California](https://calacademy.org/) y la [National Geographic Society](https://www.nationalgeographic.org/).
+    NaturalistaUY es parte de la [red global iNaturalist](https://www.inaturalist.org/sites/network). iNaturalist es una iniciativa conjunta de la [Academia de Ciencias de California](https://calacademy.org/) y la [National Geographic Society](https://www.nationalgeographic.org/).
 
-2.  ##### ¿Quiénes están detrás de Naturalista UY? ¿Y de iNaturalist?
+2.  ##### ¿Quiénes están detrás de NaturalistaUY? ¿Y de iNaturalist?
 
-    Naturalista UY es impulsado localmente por la Asociación Civil [JULANA](https://julana.org/) y por [Biodiversidata](https://biodiversidata.org/) en colaboración con iNaturalist. Fue generado gracias a un fondo para exploradores que la [National Geographic Society](https://www.nationalgeographic.org/) entregó a [Florencia Grattarola](https://nationalgeographic.org/find-explorers/florencia-grattarola), integrante de JULANA y coordinadora de Biodiversidata.
+    NaturalistaUY es impulsado localmente por la Asociación Civil [JULANA](https://julana.org/) y por [Biodiversidata](https://biodiversidata.org/) en colaboración con iNaturalist. Fue generado gracias a un fondo para exploradores que la [National Geographic Society](https://www.nationalgeographic.org/) entregó a [Florencia Grattarola](https://nationalgeographic.org/find-explorers/florencia-grattarola), integrante de JULANA y coordinadora de Biodiversidata.
 
     En un principio, iNaturalist fue el proyecto final de la Maestría de Nathan Agrin, Jessica Kline, y Ken-ichi Ueda en la [School of Information](http://www.ischool.berkeley.edu) de UC Berkeley. Visitá la página [Acerca de iNaturalist](https://www.naturalista.uy/pages/about) para más información sobre los integrantes actuales de iNat.
 
@@ -112,7 +112,7 @@
 
     iNaturalist está hecho con [Ruby on Rails](http://www.rubyonrails.org/), [MySQL](http://mysql.com/), [jQuery](http://jquery.com/) y [Google Maps](http://code.google.com/apis/maps//). También usa [Flickr](http://flickr.com/) y [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page) como fuente de algunas imágenes utilizadas en las páginas de taxones, así como [Catalogue of Life](http://www.catalogueoflife.org), [uBio](http://ubio.org/), y una gran variedad de fuentes de datos para obtener información taxonómica. Para obtener una lista de autoridades taxonómicas y normativas, mirá la [Guía del Curador](https://www.inaturalist.org/pages/curator+guide#authorities).  
 
-4.  ##### ¿Qué puedo hacer para ayudar a Naturalista UY?
+4.  ##### ¿Qué puedo hacer para ayudar a NaturalistaUY?
 
     En primer lugar, podés ser inegrante activo de la comunidad, agregar tus observaciones y ayudar a que otros integrantes [identifiquen sus observaciones no identificadas](https://www.naturalista.uy/observations/identify). También podés contribuir compartiendo tus ideas y comentarios. Ingresá al [Foro de la Comunidad](https://forum.inaturalist.org/) para interactuar con otras personas, informar errores y solicitar nuevas funcionalidades. ¡Si sabés cómo programar y querés contribuir en alguna funcionalidad con tu trabajo, [hacelo en GitHub](http://github.com/inaturalist/inaturalist)!
 
@@ -120,9 +120,9 @@
 
     También, podés [donar para apoyar a iNaturalist](https://www.inaturalist.org/donate?utm_medium=web&utm_source=iNaturalist). Y hay más maneras de ayudar,[explicadas en el Foro de la Comunidad de iNaturalist](https://forum.inaturalist.org/t/ways-to-help-out-on-inat-wiki/1983).
 
-5.  ##### ¿Cómo puedo comunicarme con Naturalista UY? ¿Y con iNaturalist?
+5.  ##### ¿Cómo puedo comunicarme con NaturalistaUY? ¿Y con iNaturalist?
 
-    Por cuestiones relacionadas a Naturalista UY o asuntos específicos dentro de Uruguay, podés contactar a la administradora: [flograttarola@gmail.com](mailto:flograttarola@gmail.com).
+    Por cuestiones relacionadas a NaturalistaUY o asuntos específicos dentro de Uruguay, podés contactar a la administradora: [flograttarola@gmail.com](mailto:flograttarola@gmail.com).
 
     Para contactarte con iNaturalist, podés escribir a la casilla de soporte: [help@inaturalist.org](mailto:help@inaturalist.org).
 
@@ -177,7 +177,7 @@
     Esto implica que tenés mucho poder en tus capacidades de marcado de spam, así que no lo uses incorrectamente. Nuestra definición de spam es todo aquello cuyo claro objetivo sea hacer dinero, que puede ser vínculos a sitios engañosos o tratar de manipular la indexación de los motores de búsqueda mediante gran cantidad de vínculos a sitios extraños. Por alguna razón, hay muchos casos de intentos de venta de relojes (vaya uno a saber por qué). Aquí hay algunos ejemplos que no constituyen spam:
 
     * fotos que infringen derechos de autor (para ello, hay un marcador aparte);
-    * contenido ofensivo o inapropiado creado por alguien que es claramente un usuario legítimo de Naturalista UY;
+    * contenido ofensivo o inapropiado creado por alguien que es claramente un usuario legítimo de NaturalistaUY;
     * todo aquello que te disguste arbitrariamente.
 
     Si tenés dudas, contactá a un curador del sitio o un administrador del sitio, o a [naturalistauy@gmail.com](mailto:naturalistauy@gmail.com).
