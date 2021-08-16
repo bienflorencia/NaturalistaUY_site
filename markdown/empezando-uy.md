@@ -2,14 +2,14 @@
 
 ¡Hola, te damos la bienvenida a Naturalista UY! Esta guía te familiarizará con algunas de las principales características del sitio.
 
-*   [Publicar observaciones](#observations)
+*   [Cómo publicar observaciones](#como-publicar-observaciones)
 *   [Explorar observaciones](#explore)
 *   [Organismos](#organisms)
 *   [Identificar observaciones](#identify)
 *   [Lugares](#places)
 
 
-# Cómo publicar observaciones {#what}
+# Cómo publicar observaciones
 
 Este artículo describe:
 
@@ -29,7 +29,7 @@ Las observaciones registran el encuentro con un organismo individual en un momen
 No es necesario que tus observaciones incluyan todas estas partes, pero sí es necesario para que se conviertan en observaciones de calidad de investigación para la ciencia. Recordá que tenés que hacer observaciones separadas para cada organismo que encuentres. Si observaste algo que no es silvestre, como una planta de jardín o un león en un zoológico, asegurate de marcarlos como cautivos/cultivados para evitar que se conviertan en calidad de investigación.  
 
 
-### Cómo hacer una observación con un iPhone
+### Cómo hacer una observación con un iPhone {#iphone}
 
 ![](http://static.inaturalist.org/wiki_page_attachments/428-original.png)
 
