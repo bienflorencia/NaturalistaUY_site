@@ -1,0 +1,44 @@
+.naturalist-content {
+    font-family: Whitney,'Trebuchet MS',Arial,sans-serif;
+    font-size: 16px;
+}
+
+.naturalist-content li {
+    line-height: 1.6em;
+}
+
+.mt-20 {
+    margin-top: 20px;
+}
+
+.tabs-list {
+    font-size: 12px;
+}
+.number-circle {
+    border-radius: 50%;
+    width: 23px;
+    height: 23px;
+    background: #e76d24;
+    border: 2px solid #e76d24;
+    color: #fff;
+    text-align: center;
+    font: 16px Arial, sans-serif;
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.steps-list {
+    font-family: Whitney, "Trebuchet MS", Arial, sans-serif;
+    padding: 0;
+    margin: 0;
+}
+
+.steps-list li {
+    list-style: none;
+    margin-bottom: 30px;
+}
+
+.meta a {
+    color: #888;
+    font-size: 75%;
+}
