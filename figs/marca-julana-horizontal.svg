@@ -23,16 +23,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.57016237"
-     inkscape:cx="273.81831"
-     inkscape:cy="401.79447"
+     inkscape:zoom="1.0134944"
+     inkscape:cx="187.98061"
+     inkscape:cy="195.63087"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g1608"
      inkscape:document-rotation="0"
      showgrid="false"
      width="200mm"
      inkscape:window-width="1252"
-     inkscape:window-height="790"
+     inkscape:window-height="789"
      inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="0" />
@@ -44,7 +44,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -118,22 +118,6 @@
       <g
          id="g1608"
          transform="translate(29.48214,-87.690476)">
-        <path
-           d="m 99.929373,111.41401 -0.575786,-0.28805 0.143933,0.28805 z"
-           style="fill:#33695e;fill-rule:evenodd;stroke-width:0.264583"
-           id="path855" />
-        <path
-           d="m 101.51296,111.98995 -0.42577,-0.29892 -0.29398,0.0109 0.43185,0.28805 z"
-           style="fill:#33695e;fill-rule:evenodd;stroke-width:0.264583"
-           id="path857" />
-        <path
-           d="m 112.74219,112.13389 0.29414,0.0109 0.42577,-0.2988 h -0.28792 z"
-           style="fill:#33695e;fill-rule:evenodd;stroke-width:0.264583"
-           id="path859" />
-        <path
-           d="m 110.00688,112.85392 c 0.71675,0 0.85576,0.0178 1.29566,-0.28802 z"
-           style="fill:#33695e;fill-rule:evenodd;stroke-width:0.264583"
-           id="path861" />
         <path
            d="m 73.871937,147.26857 0.436033,-0.008 0.57158,0.29602 h 0.288078 c 0.604044,0 0.30271,-0.0107 0.431853,0.14393 1.327203,0.8423 5.887191,-0.57766 6.622044,-1.00825 1.344666,-0.78787 3.356108,-2.51317 3.743325,-4.17555 v -23.03917 h -5.902563 l -0.143933,22.89511 c -0.456459,0.5253 -0.884925,1.00806 -1.871477,1.00806 H 76.46324 c -0.03051,0 -0.99105,-0.40754 -1.01653,-0.4232 -0.331284,-0.20505 -0.423095,-0.63294 -0.423095,-1.16078 v -22.4631 h -6.190562 v 22.03109 c 0,1.9317 0.806318,2.69272 1.639359,3.8322 0.421798,0.5769 2.590932,2.0043 3.399525,2.07158 z m 6.046417,-4.89585 0.143933,-22.89511 h 5.902563 v 23.03917 l 0.143934,-23.18308 h -6.19043 z m -4.318873,5.32786 c -0.129143,-0.1546 0.172191,-0.14393 -0.431853,-0.14393 H 74.87955 l -0.57158,-0.29602 -0.436033,0.008 c 0.47879,0.4164 0.853784,0.43201 1.727544,0.43201 z"
            style="fill:#26985a;fill-rule:evenodd;stroke-width:0.264583"
