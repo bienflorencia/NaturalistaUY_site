@@ -1,3 +1,7 @@
+#WelcomeIndex #who {
+    display: none;
+}
+
 .naturalist-content {
     font-family: Whitney,'Trebuchet MS',Arial,sans-serif;
     font-size: 16px;
