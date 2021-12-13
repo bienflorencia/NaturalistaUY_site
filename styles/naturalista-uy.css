@@ -1,6 +1,14 @@
+#WelcomeIndex #who {
+    display: none;
+}
+
 .naturalist-content {
     font-family: Whitney,'Trebuchet MS',Arial,sans-serif;
-    font-size: 16px;
+    font-size: 14px;
+}
+
+.ui-widget {
+    font-family: Whitney,'Trebuchet MS',Arial,sans-serif;
 }
 
 .naturalist-content li {
@@ -41,4 +49,16 @@
 .meta a {
     color: #888;
     font-size: 75%;
+}
+
+.box {
+    background-color: #fbfbfb;
+}
+
+#footer .buttons-col {
+    display: none;
+}
+
+#footer .buttons-col ~ .buttons-col {
+    display: block;
 }
